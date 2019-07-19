@@ -1,1 +1,1 @@
-# Polak-Bot-DISCORD
+# Polak-Bot
